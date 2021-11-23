@@ -1,0 +1,28 @@
+div{
+    width: 25vh;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}   
+.superior-izquierda{
+    background-color: orange;
+    position: absolute;
+    left: 0;
+}
+.superior-derecha{
+    background-color: blue;
+    position: absolute;
+    right: 0;
+}
+.inferior-izquierda{
+    background-color: violet;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.inferior-derecha{
+    background-color: green;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
